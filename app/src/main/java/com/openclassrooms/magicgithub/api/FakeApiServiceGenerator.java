@@ -15,33 +15,33 @@ public abstract class FakeApiServiceGenerator {
     }
 
     public static List<User> FAKE_USERS = Arrays.asList(
-            new User("001", "Jake", "https://api.adorable.io/AVATARS/512/1.png"),
-            new User("002", "Paul", "https://api.adorable.io/AVATARS/512/2.png"),
-            new User("003", "Phil", "https://api.adorable.io/AVATARS/512/3.png"),
-            new User("004", "Guillaume", "https://api.adorable.io/AVATARS/512/4.png"),
-            new User("005", "Francis", "https://api.adorable.io/AVATARS/512/5.png"),
-            new User("006", "George", "https://api.adorable.io/AVATARS/512/6.png"),
-            new User("007", "Louis", "https://api.adorable.io/AVATARS/512/7.png"),
-            new User("008", "Mateo", "https://api.adorable.io/AVATARS/512/8.png"),
-            new User("009", "April", "https://api.adorable.io/AVATARS/512/9.png"),
-            new User("010", "Louise", "https://api.adorable.io/AVATARS/512/10.png"),
-            new User("011", "Elodie", "https://api.adorable.io/AVATARS/512/11.png"),
-            new User("012", "Helene", "https://api.adorable.io/AVATARS/512/12.png"),
-            new User("013", "Fanny", "https://api.adorable.io/AVATARS/512/13.png"),
-            new User("014", "Laura", "https://api.adorable.io/AVATARS/512/14.png"),
-            new User("015", "Gertrude", "https://api.adorable.io/AVATARS/512/15.png"),
-            new User("016", "Chloé", "https://api.adorable.io/AVATARS/512/16.png"),
-            new User("017", "April", "https://api.adorable.io/AVATARS/512/17.png"),
-            new User("018", "Marie", "https://api.adorable.io/AVATARS/512/18.png"),
-            new User("019", "Henri", "https://api.adorable.io/AVATARS/512/19.png"),
-            new User("020", "Rémi", "https://api.adorable.io/AVATARS/512/20.png")
+            new User("001", "Jake", "https://avatarfiles.alphacoders.com/222/222101.jpg"),
+            new User("002", "Paul", "https://avatarfiles.alphacoders.com/230/230575.jpg"),
+            new User("003", "Phil", "https://avatarfiles.alphacoders.com/450/45051.jpg"),
+            new User("004", "Guillaume", "https://avatarfiles.alphacoders.com/450/45048.jpg"),
+            new User("005", "Francis", "https://avatarfiles.alphacoders.com/450/45047.jpg"),
+            new User("006", "George", "https://avatarfiles.alphacoders.com/233/233093.jpg"),
+            new User("007", "Louis", "https://avatarfiles.alphacoders.com/448/44825.png"),
+            new User("008", "Mateo", "https://avatarfiles.alphacoders.com/445/44543.jpg"),
+            new User("009", "April", "https://avatarfiles.alphacoders.com/519/51908.png"),
+            new User("010", "Louise", "https://avatarfiles.alphacoders.com/450/45050.jpg"),
+            new User("011", "Elodie", "https://avatarfiles.alphacoders.com/460/46084.png"),
+            new User("012", "Helene", "https://avatarfiles.alphacoders.com/247/247692.png"),
+            new User("013", "Fanny", "https://avatarfiles.alphacoders.com/464/46418.jpg"),
+            new User("014", "Laura", "https://avatarfiles.alphacoders.com/471/47140.jpg"),
+            new User("015", "Gertrude", "https://avatarfiles.alphacoders.com/470/47022.jpg"),
+            new User("016", "Chloé", "https://avatarfiles.alphacoders.com/845/84582.png"),
+            new User("017", "April", "https://avatarfiles.alphacoders.com/916/91630.jpg"),
+            new User("018", "Marie", "https://avatarfiles.alphacoders.com/115/115278.png"),
+            new User("019", "Henri", "https://avatarfiles.alphacoders.com/443/44329.jpg"),
+            new User("020", "Rémi", "https://avatarfiles.alphacoders.com/235/235451.jpg")
     );
 
     public static List<User> FAKE_USERS_RANDOM = Arrays.asList(
-            new User("021", "Lea", "https://api.adorable.io/AVATARS/512/21.png"),
-            new User("022", "Geoffrey", "https://api.adorable.io/AVATARS/512/22.png"),
-            new User("023", "Simon", "https://api.adorable.io/AVATARS/512/23.png"),
-            new User("024", "André", "https://api.adorable.io/AVATARS/512/24.png"),
-            new User("025", "Leopold", "https://api.adorable.io/AVATARS/512/25.png")
+            new User("021", "Lea", "https://avatarfiles.alphacoders.com/762/76262.png"),
+            new User("022", "Geoffrey", "https://avatarfiles.alphacoders.com/242/242417.png"),
+            new User("023", "Simon", "https://avatarfiles.alphacoders.com/284/284754.jpg"),
+            new User("024", "André", "https://avatarfiles.alphacoders.com/462/46282.jpg"),
+            new User("025", "Leopold", "https://avatarfiles.alphacoders.com/215/215750.jpg")
     );
 }
